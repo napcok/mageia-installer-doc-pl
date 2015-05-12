@@ -1,0 +1,1 @@
+# Formatowanie twardego dysku

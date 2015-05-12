@@ -1,0 +1,1 @@
+# Minimalna instalacja

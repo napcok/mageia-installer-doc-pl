@@ -1,0 +1,1 @@
+# DrakX instalator Mageia

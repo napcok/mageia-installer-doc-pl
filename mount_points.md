@@ -1,0 +1,1 @@
+# Wybór punktów montowania
