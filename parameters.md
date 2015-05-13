@@ -30,7 +30,7 @@ Instalator DrakX, opierając się na twoich poprzednich wyborach oraz na detekcj
 
     Usługi systemowe odnoszą się do tych niewielkich programów, które działają w tle (daemony). Tutaj możesz aktywować lub zdeaktywować ich uruchamianie przy starcie systemu.
 
-    You should check carefully before changing anything here - a mistake may prevent your computer from operating correctly.
+    Należy zachować ostrożność, błąd w ustawieniach może spowodować że komputer nie będzie działał prawidłowo.
 
     Aby uzyskać więcej informacji, zobacz [Konfiguracja usług](./services.md).
 
@@ -38,19 +38,19 @@ Instalator DrakX, opierając się na twoich poprzednich wyborach oraz na detekcj
 
  * **Klawiatura**
 
-    This is where you setup or change your keyboard layout which will depend on your location, language or type of keyboard.
+    Tu można zmienić ustawienia klawiatury. Są one uzależnione od lokalizacji, wybranego języka oraz typu klawiatury.
 
  * **Mysz**
 
-    Here you can add or configure other pointing devices, tablets, trackballs etc.
+    Można tu również dodać i skonfigurować inne urządzenia wskazujące.
 
  *  **Karta dźwiękowa**
 
-    The installer uses the default driver, if there is a default one. The option to select a different driver is only given when there is more than one driver for your card, but none of them is the default one.
+    Instalator ustawia domyślny sterownik, jeśli został on znaleziony. Jeśli istnieje możliwość ustawienia innego sterownika, można to zrobić tutaj.
 
 *  **Interfejs graficzny**
 
-    This section allows you to configure your graphic card(s) and displays.
+    Konfiguracja karty graficznej oraz monitora.
 
     Aby uzyskać więcej informacji, zobacz [Konfiguracja monitora i karty graficznej](monitor.md).
 
@@ -60,7 +60,7 @@ Instalator DrakX, opierając się na twoich poprzednich wyborach oraz na detekcj
 
 * **Sieć**
 
-    You can configure your network here, but for network cards with non-free drivers it is better to do that after reboot, in the Mageia Control Center, if you have not yet enabled the Nonfree media repositories.
+    Tutaj można skonfigurować ustawienia sieci. Jeśli jednak posiadasz kartę obsługiwaną przez nie-wolne (non-free) sterowniki i nie włączyłeś repozytorium** Nonfree**, lepiej będzie zrobić to po restarcie systemu za pomocą **Centrum Sterowania Mageia**.
 
 ---
 
@@ -72,29 +72,28 @@ Jeśli dodasz kartę sieciową, nie zapomnij ustawić tak zaporę sieciową, aby
 
 * **Serwery pośredniczące**
 
-    A Proxy Server acts as an intermediary between your computer and the wider internet. This section allows you to configure your computer to utilize a proxy service.
+    Serwery pośredniczące (proxy) działają jako pośrednik między twoim komputerem a siecią Internet. Ta sekcja pozwala na skonfigurowanie serwerów pośredniczących dla twojego komputera.
 
-    You may need to consult your systems administrator to get the parameters you need to enter here
+    Skonsultuj się z administratorem sieci jeśli nie znasz parametrów, które trzeba tu podać.
 
 ##Bezpieczeństwo
 
 * **Poziom bezpieczeństwa**
 
-    Here you set the Security level for your computer, in most cases the default setting (Standard) is adequate for general use.
+    Tutaj można ustawić **Poziom bezpieczeństwa** dla swojego komputera, w większości przypadków domyślny poziom (Standardowy) jest odpowiedni.
 
-    Check the option which best suits your usage.
 
 * **Zapora sieciowa**
 
-    A firewall is intended to be a barrier between your important data and the rascals out there on the internet who would compromise or steal it.
+    Zapora sieciowa zwana też firewallem jest pomyślana jako bariera pomiędzy ważnymi danymi to be a baomputerze, a złoczyńcami ;) w Internecie którzy chcieli by je ukraść lub co gorsze przejąc kontrolę nad Twoim komputerem.
 
-    Select the services that you wish to have access to your system. Your selections will depend on what you use your computer for.
 
 ---
 
 ***Ostrzeżenie***
 
-    Bear in mind that allowing everything (no firewall) may be very risky.
+Pamiętaj, że udostępnienie wszystkiego (brak firewalla) może być bardzo ryzykowne.
 
+*( Zupełnie się z tym nie zgadzam - tłumacz)*
 
 ---

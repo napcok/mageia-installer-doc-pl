@@ -5,12 +5,12 @@
 
 Wybierz swoją strefę czasową poprzez wybranie swojego kraju lub miasta w pobliżu w tej samej strefie czasowej.
 
-In next screen you can choose to set your hardware clock to local time or to GMT, also known as UTC.
+Na następnym ekranie możesz wybrać ustawienia zegara systemowego na **Czas lokalny** lub **GMT**, znane także jako **UTC**.
 
 ---
 
 ***Notatka***
 
-If you have more than one operating system on your computer, make sure they are all set to local time, or all to UTC/GMT.
+Jeśli posiadasz więcej systemów operacyjnych na swoim komputerze, upewnij się, że wszystkie one mają ustawiony albo **Czas lokalny**, albo wszystkie **UTC/GMT**.
 
 ---

@@ -20,7 +20,7 @@
 * [Samodzielny wybór pakietów](pakiety.md)
 * [Zarządzanie użytkownikami](users.md)
 * [Konfiguracja monitora i karty graficznej](monitor.md)
-* [Wybór serwera X (Konfiguracja kartygraficznej](kartagraf.md)
+* [Wybór serwera X (konfiguracja karty graficznej)](kartagraf.md)
 * [Wybór monitora](wyb_monitora.md)
 * [Podstawowe opcje programu rozruchowego](bootloader.md)
 * [Modyfikowanie Boot menu](bootmenu.md)

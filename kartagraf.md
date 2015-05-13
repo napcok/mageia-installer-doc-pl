@@ -1,4 +1,4 @@
-# Wybór serwera X (Konfiguracja kartygraficznej
+# Wybór serwera X (konfiguracja karty graficznej)
 
 ![](./images/dx2-configureX_card_list.png)
 
