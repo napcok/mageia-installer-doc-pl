@@ -60,6 +60,6 @@ Wszystkie dane, które zapisze w swoim katalogu domowym gość zostaną wykasowa
 
 * **Powłoka**: Ta lista pozwala na zmianę powłoki używanej przez użytkownika, którego dodajesz, do wyboru Bash, Dash oraz Sh
 
-* **User ID**: Here you can set the user ID for the user you are adding in the previous screen. This is a number. Leave it blank unless you know what you are doing.
+* **ID użytkownika**: można tu ustawić numer ID użytkownika, którego dodałeś na poprzednim ekranie. Pozostaw puste jeśli nie za bardzo wiesz co to oznacza.
 
-* **Group ID**: This lets you set the group ID. Also a number, usually the same one as for the user. Leave it blank unless you know what you are doing.
+* **ID grupy**: można tu ustawić numer ID grupy. Zazwyczaj jest on taki sam jak ID użytkownika. Pozostaw puste jeśli nie za bardzo wiesz co to oznacza.

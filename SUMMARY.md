@@ -1,4 +1,6 @@
-#Spis treści
+# Summary
+
+* [Introduction](README.md)
 * [DrakX instalator Mageia](DrakX.md)
 * [Wybór języka](jezyk.md)
 * [Licencja oraz informacje o wydaniu](licencja.md)
@@ -17,16 +19,19 @@
 * [Minimalna instalacja](minimal.md)
 * [Samodzielny wybór pakietów](pakiety.md)
 * [Zarządzanie użytkownikami](users.md)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-
-
+* [Konfiguracja monitora i karty graficznej](monitor.md)
+* [Wybór serwera X (Konfiguracja kartygraficznej](kartagraf.md)
+* [Wybór monitora](wyb_monitora.md)
+* [Podstawowe opcje programu rozruchowego](bootloader.md)
+* [Modyfikowanie Boot menu](bootmenu.md)
+* [Różne parametry](parameters.md)
+* [Konfiguracja strefy czasowej](timezone.md)
+* [Kraj/Region](country.md)
+* [Konfiguracja usług](services.md)
+* [Wybór myszy](mouse.md)
+* [Konfiguracja dźwięku](sound.md)
+* [Poziom bezpieczeństwa](securitylevel.md)
+* [Aktualizacje](updates.md)
+* [Gratulacje](gratulacje.md)
+* [Odinstalowywanie Magei](uninstall.md)
 
