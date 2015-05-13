@@ -1,4 +1,4 @@
-# Modyfikowanie Boot menu
+# Modyfikowanie menu programu rozruchowego
 
 ![](./images/dx2-bootloaderConfiguration.png)
 

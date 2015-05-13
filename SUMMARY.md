@@ -23,7 +23,7 @@
 * [Wybór serwera X (konfiguracja karty graficznej)](kartagraf.md)
 * [Wybór monitora](wyb_monitora.md)
 * [Podstawowe opcje programu rozruchowego](bootloader.md)
-* [Modyfikowanie Boot menu](bootmenu.md)
+* [Modyfikowanie menu programu rozruchowego](bootmenu.md)
 * [Różne parametry systemowe](parameters.md)
 * [Konfiguracja strefy czasowej](timezone.md)
 * [Kraj/Region](country.md)

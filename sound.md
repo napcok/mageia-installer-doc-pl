@@ -2,15 +2,14 @@
 
 ![](./images/dx2-soundConfig.png)
 
-In this screen the name of the driver that the installer chose for your sound card is given, which will be the default driver if we have a default one.
+Na tym ekranie pokazana jest nazwa sterownika, który został wybrany przez instalator do obsługi twojej karty graficznej, będzie on domyślnym sterownikiem.
 
-The default driver should work without problems. However, if after install you do encounter problems, then run draksound or start this tool via MCC (Mageia Control Center), by choosing the Hardware tab and clicking on Sound Configuration at the top right of the screen.
+Domyślny sterownik powinien działać nie sprawiając problemów. Jeśli jednak po instalacji zauważysz nieprawidłowości, możesz skonfigurować sterownik za pomocą **Centrum Sterowania Mageia** (MCC), wybierając **Sprzęt**  oraz znajdującą się w prawym górnym rogu pozycję **Konfiguracja dźwięku**.
 
-Then, in the draksound or "Sound Configuration" tool screen, click on Advanced and then on Troubleshooting to find very useful advice about how to solve the problem.
-
+Klikając **Zaawansowane**, a następnie **Wyszukiwanie problemów** uzyskasz użyteczne informacje, które pozwolą ci rozwiązać problem.
 
 ####Zaawansowane
 
-Clicking Advanced in this screen, during install, is useful if there is no default driver and there are several drivers available, but you think the installer selected the wrong one.
+Kliknięcie **Zaawansowane** podczas instalacji może być użyteczne w sytuacji, gdy nie został wybrany domyślny sterownik, a są dostępne różne sterowniki, lub gdy uważasz, że instalator zaproponował nieodpowiedni sterownik.
 
-In that case you can select a different driver after clicking on Let me pick any driver.
+Możesz wybrać inny sterownik klikając **Pozwól mi wybrać sterownik**.

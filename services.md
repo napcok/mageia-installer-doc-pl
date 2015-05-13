@@ -10,4 +10,4 @@ Domyślne ustawienia zproponowane przez instalator DrakX są bezpieczne.
 
 Po zaznaczeniu (podświetleniu) nazwy usługi, w okienku poniżej będ zaprezentowane krótkie informacje na jej temat.
 
-Zmieniej te ustawienia tylko jeśli dobrze wiesz co robisz.
+Zmieniaj te ustawienia tylko jeśli dobrze wiesz co robisz.
