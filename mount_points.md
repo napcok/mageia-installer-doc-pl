@@ -22,10 +22,10 @@ Jeśli cokolwiek zmienisz, upewnij się że wciąż masz partycję **/** (root).
 
 ---
 
-***Ostrzeżenie***
+***Informacja***
 
-Choose Previous if you are not sure what to choose, and then tick Custom disk partitioning. In the screen that follows, you can click on a partition to see its type and size.
+Kliknij **Wstecz** jeśli nie wiesz co zrobić, a następnie zaznacz **Zaawansowany podział na partycje**. Na ekranie który się pojawi można będzie kliknąć na partycję aby sprawdzić jej typ oraz rozmiar.
 
 ---
 
-Jeśli jesteś pewny że punkty montowania są dobrze ustawione, kliknij **Dalej**, by zdecydować które partycje sformatować.
+Jeśli jesteś pewny, że punkty montowania są dobrze ustawione, kliknij **Dalej**, by zdecydować które partycje sformatować.

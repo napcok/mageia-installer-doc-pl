@@ -38,7 +38,7 @@ Użytkownicy, których dodasz po zainstalowaniu systemu poprzez MCC - System - Z
 
 Jeśli nie chcesz tworzyć użytkowników z katalogami domowymi możliwymi do odczytu przez innych, zaleca się utworzenie tylko tymczasowego użytkownika podczas instalacji i dodanie prawdziwych użytkowników po restarcie systemu.
 
-If you prefer world readable home directories, you might want to add all extra needed users in the Configuration - Summary step during the install. Choose User management.
+Jeśli preferujesz katalogi domowe z możliwością odczytu przez wszystkich użytkowników, możesz dodać wszystkich użytkowników podczas konfiguracji różnych parametrów pod koniec instalacji. Wybierz **Zarządzanie użytkownikami**.
 
 Ustawienia dostępu mogą być również zmienione po instalacji.
 

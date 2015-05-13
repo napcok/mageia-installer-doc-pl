@@ -2,23 +2,22 @@
 
 ![](./images/dx2-configureX_chooser.png)
 
+Niezależnie jakie środowisko graficzne (zwane też pulpitem) wybierzesz dla swojej instalacji Magei, każde z nich korzysta z systemu graficznego nazywanego *X Window System*, lub po prostu *Xy*. Aby KDE, Gnome, LXDE lub jakiekolwiek inne środowisko graficzne działało dobrze pewne ustawienia X serwera muszą być poprawne. Wybierz odpowiednie ustawienia jeśli instalator tego nie zrobił, lub gdy uważasz że wybór jakiego dokanał instalator nie jest dobry.
 
-No matter which graphical environment (also known as desktop environment) you chose for this install of Mageia, they are all based on a graphical user interface system called X Window System, or simply X. So in order for KDE, Gnome, LXDE or any other graphical environment to work well, the following X settings need to be correct. Choose the correct settings if you can see that DrakX didn't make a choice, or if you think the choice is incorrect.
+* **Karta graficzna**: Wybierz swoją kartę graficzną z listy.
 
-* Karta graficzna: Wybierz swoją kartę graficzną z listy.
-
-* Monitor: You can choose Plug'n Play when applicable, or choose your monitor from the Vendor or Generic list. Choose Custom if you prefer to manually set the horizontal and vertical refresh rates of your monitor.
+* **Monitor**: Możesz wybrać **Plug'n Play**, albo wybrać swój monitor z listy **Dostawca** lub listy **Standardowa**. Wybierz **Własne** jeśli chcesz samodzielnie ustawić częstotliwość synchronizacji pionowej i poziomej dla swojego monitora.
 
 ---
 
 ***Ostrzeżenie***
 
-    Niepoprawna wartość odświeżania może uszkodzić monitor
+Niepoprawna wartość odświeżania może uszkodzić monitor.
 
 ---
 
-* Resolution: Set the desired resolution and color depth of your monitor here.
+* **Rozdzielczość**: Ustaw pożądaną rozdzielczość oraz głębię kolorów.
 
-* Test: The test button does not always appear during install. If the button is there, you can control your settings by pressing it. If you see a question asking you whether your settings are correct, you can answer "yes", and the settings will be kept. If you don't see anything, you'll return to the configuration screen and be able to reconfigure everything until the test is good. Make sure your settings are on the safe side if the test button isn't available
+* **Test**: Przycisk **Test** nie zawsze pojawia się podczas instalacji. Jeśli jednak się pojawi, możesz przetestować swoje ustawienia. Gdy zobaczysz pytanie o to czy ustawienia są prawidłowe, możesz odpowiedzieć **Tak**, aby zapisać ustawienia. Gdy pytanie się nie pojawi, powrócisz do ekranu konfiguracji, gdzie możesz zmieniać różne ustawienia aż do momentu kiedy test się powiedzie.
 
-* Options: Here you can choose to enable or disable various options.
+* **Opcje**: Tutaj możesz włączyć lub wyłączyć różne opcje.

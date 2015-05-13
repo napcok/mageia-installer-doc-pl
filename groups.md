@@ -11,4 +11,4 @@ Aby ułatwić ci wybór, pakiety zostały podzielone na grupy. Nazwy grup nie wy
 
 * **Samodzielny wybór pakietów**: możesz zaznaczyć tą opcję jeśli chcesz samodzielnie dodawać lub usuwać pojedyńcze pakiety.
 
-Przeczytaj [Minimalna instalacja](./minimal.md) aby dowiedzieć się jak przeprowadzić instalację minimalną.
+Przeczytaj [Minimalna instalacja](./minimal.md), aby dowiedzieć się jak przeprowadzić instalację minimalną.

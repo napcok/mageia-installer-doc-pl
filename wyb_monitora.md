@@ -1,35 +1,36 @@
 # Wybór monitora
-DrakX has a very comprehensive database of monitors and will usually correctly identify yours.
+Instalator DrakX posiada bardzo obszerną bazę monitorów, i zazwyczaj jest w stanie poprawnie je rozpoznać.
 
 ---
 
 ***Ostrzeżenie***
 
-Selecting a monitor with different characteristics could damage your monitor or video hardware. Please don't try something without knowing what you are doing. If in doubt you should consult your monitor documentation.
+Wybór monitora o zupełnie innej charakterystyce niż posiadany może uszkodzić monitor lub kartę graficzną.
+Nie próbuj więc tutaj przypadkowych opcji, jeśli nie za bardzo wiesz co robić. W razie problemów należy przeczytać dokumentację monitora.
 
 ---
 
 ![](./images/dx2-configureX_monitor.png)
 
 
-#####Własny
+#####Własne
 
-This option allows you to set two critical parameters, the vertical refresh rate and the horizontal sync rate. Vertical refresh determines how often the screen is refreshed and horizontal sync is the rate at which scan lines are displayed.
+Ta opcja pozwala na określenie dwóch ważnych parametrów, częstotliwości odświeżania poziomego oraz pionowego.
 
-It is VERY IMPORTANT that you do not specify a monitor type with a sync range that is beyond the capabilities of your monitor: you may damage your monitor. If in doubt, choose a conservative setting and consult your monitor documentation.
+Jest BARDZO WAŻNE, aby nie ustawić tych parametrów poza zakresem możliwości monitora: można w ten sposób go uszkodzić. Jeśli masz kłopot, ustaw wartości bezpieczne oraz sprawdź dokumentację monitora.
 
 #####Plug 'n Play
 
-This is the default option and tries to determine the monitor type from the monitor database.
+To jest domyślna opcja, instalator próbuje określić typ monitora za pomocą swojej bazy monitorów.
 
 #####Dostawca
 
-If the installer has not correctly detected your monitor and you know which one you have, you can select it from the tree by selecting:
+Jeśli instalator nie wykrył poprawnie twojego monitora, a wiesz jaki model posiadasz, możesz wybrać odpowiedni model z listy zaznaczając:
 
-* dostawca
-* the monitor manufacturers name
-* the monitor description
+* dostawcę
+* nazwę monitora
 
-#####Generic
 
-selecting this group displays nearly 30 display configurations such as 1024x768 @ 60Hz and includes Flat panel displays as used in laptops. This is often a good monitor selection group if you need to use the Vesa card driver when your video hardware cannot be determined automatically. Once again it may be wise to be conservative in your selections.
+#####Standartowa
+
+Wybranie tej opcji spowoduje wyświetlenie około 30 różnych możliwości konfiguracji jak 1024x768 @ 60Hz, zawierających także opcję używane w laptopach. To jest często dobra grupa jeśli chcesz użyć sterownika **vesa** dla kart które nie zostały rozpoznane automatycznie.

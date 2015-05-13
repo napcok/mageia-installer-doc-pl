@@ -5,10 +5,10 @@
 
 Instalacja i konfiguracja Magei została zakończona, teraz można bezpiecznie usunąć nośnik instalacyjny i uruchomić komputer ponownie.
 
-After reboot, in the bootloader screen, you can choose between the operating systems on your computer (if you have more than one).
+Po restarcie komputera, pojwi się ekran bootloadera (programu rozruchowego), na którym możesz wybrać jaki system operacyjny chcesz uruchomić (jeśli posiadasz więcej niż jeden).
 
-If you didn't adjust the settings for the bootloader, your Mageia install will be automatically selected and started.
+Jeśli nie zmieniałeś nic w ustawieniach programu rozruchowego, twój nowy system Mageia będzie wybrany automatycznie oraz zostanie uruchomiony.ected and started.
 
 Dobrej zabawy!
 
-Jeśli masz jakieś pytania, bądź chciał(a)byś dołączyć do pojektu Mageia - odwiedź www.mageia.org
+Jeśli masz jakieś pytania, bądź chciał(a)byś dołączyć do pojektu Mageia - odwiedź stronę [www.mageia.org](http://www.mageia.org).

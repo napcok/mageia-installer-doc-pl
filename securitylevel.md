@@ -4,8 +4,9 @@
 ![](./images/dx2-securityLevel.png)
 
 
-You can adjust your security level here.
+Można tutaj ustawić poziom bezpieczeństwa.
 
-Leave the default settings as they are, if you don't know what to choose.
+Jeśli nie za bardzo się orientujesz pozostaw domyślne ustawienia - są one odpowiednio dobrane dla typowej instalacji na stacji roboczej.
 
-After install, it will always be possible to adjust your security settings in the Security part of the Mageia Control Center.
+Po instalacji, możliwa jest zawsze zmiana wszelkich ustawień dotyczących bezpieczeństwa za pomocą działu **Bezpieczeństwo** w **Centrum Sterowania Mageia**.
+

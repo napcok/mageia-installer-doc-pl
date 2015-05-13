@@ -24,7 +24,7 @@
 * [Wybór monitora](wyb_monitora.md)
 * [Podstawowe opcje programu rozruchowego](bootloader.md)
 * [Modyfikowanie Boot menu](bootmenu.md)
-* [Różne parametry](parameters.md)
+* [Różne parametry systemowe](parameters.md)
 * [Konfiguracja strefy czasowej](timezone.md)
 * [Kraj/Region](country.md)
 * [Konfiguracja usług](services.md)

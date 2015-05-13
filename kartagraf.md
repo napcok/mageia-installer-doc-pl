@@ -2,19 +2,19 @@
 
 ![](./images/dx2-configureX_card_list.png)
 
-DrakX has a very comprehensive database of video cards and will usually correctly identify your video device.
+Instalator DrakX posiada bardzo obszerną bazę kart graficznych i zazwyczaj dobrze rozpoznaje dostępne urządzenia.
 
-If the installer has not correctly detected your graphic card and you know which one you have, you can select it from the tree by:
+Jeśli instalator nie wykrył poprawnie Twojej karty graficznej, a wiesz jaki to model, możesz wybrać go z pomocą prezentowanego drzewka opcji:
 
 * dostawca
 * następnie nazwa karty
 * oraz typ karty
 
-If you cannot find your card in the vendor lists (because it's not yet in the database or it's an older card) you may find a suitable driver in the Xorg category
+Jeśli nie możesz odnaleźć swojej karty na liście dostawców (np. gdy jej jeszcze tam nie ma, lub jest to starsza karta) możesz znaleźć odpowiedni sterownik na liście Xorg.
 
-The Xorg listing provides more than 40 generic and open source video card drivers. If you still can't find a named driver for your card there is the option of using the vesa driver which provides basic capabilities.
+Lista Xorg dostarcza ponad 40 ogólnych oraz otwartoźródłowych sterowników do kart graficznych. Jeśli nadal nie możesz wśród nich odnależź pasującego sterownika, pozostaje opcja użycia sterownika **vesa**, który zapewnia podstawowe funkcjonalności.
 
-Be aware that if you select an incompatible driver you may only have access to the Commandline Interface.
+Pamiętaj, że jeśli wybierzesz niekompatybilny sterownik, możesz mieć dostęp tylko do trybu tekstowego (linii komend).
 
 Niektórzy producenci kart graficznych udostępniają własnościowe sterowniki dla Linuksa, które mogą być umieszczone jedynie w repozytorium **Nonfree**, w niektórych przypadkach są one dostępne jedynie na stronie producenta.
 

@@ -2,9 +2,8 @@
 
 ![](./images/dx2-selectMouse.png)
 
+Jeśli nie jesteś zadowolony z tego jak zachowuje się mysz, możesz tutaj wybrać inną.
 
-If you are not happy with how your mouse responds, you can select a different one here.
+Zazwyczaj, **Uniwersalny** - **Dowolna mysz PS/2 i USB** jest dobrym wyborem.
 
-Usually, Universal - Any PS/2 and USB mice is a good choice.
-
-Select Universal - Force evdev to configure the buttons that do not work on a mouse with six or more buttons.
+Wybierz **Uniwersalny** - **Wymuś zastosowanie evdev**, aby skonfigurować przyciski, które nie działają w myszy z sześcioma lub więcej przyciskami.
