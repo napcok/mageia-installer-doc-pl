@@ -7,12 +7,5 @@ DrakX wybiera odpowiedni układ klawiatury do twojego języka. Jeśli nie znalez
 
 * Jeśli twoja klawiatura nie znajduje się na pokazanej liście, kliknij na More, aby zobaczyć pełną listę i wybrać z niej swoją klawiaturę.
 
----
 
-***Ostrzeżenie***
-
-After choosing a keyboard from the More dialog, you'll return to the first keyboard choice dialog and it will seem as though a keyboard from that screen was chosen. You can safely ignore this anomaly and continue the installation: Your keyboard is the one you chose from the full list.
-
----
-
-* If you choose a keyboard based on non-Latin characters, you will see an extra dialog screen asking how you would prefer to switch between the Latin and non-Latin keyboard layouts
+* Jeśli wybierzesz klawiaturę bazującą na znakach  *non-Latin*, zobaczysz dodatkowy ekran z pytaniem w jaki sposób chcesz się przełączać pomiędzy układami klawiatury *Latin* a *non-Latin*.

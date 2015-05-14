@@ -2,28 +2,27 @@
 
 ![](./images/dx2-bootloaderConfiguration.png)
 
-You can add an entry or modify the one you select first, by pressing the relevant button in the Bootloader Configuration screen and editing the screen that pops up on top of it.
+Możesz dodawać lub modyfikować istniejące pozycje menu programu rozruchowego.
 
 ---
 
 ***Notatka***
-
-If you have chosen Grub 2 as your bootloader, you cannot use this tool to edit entries at this step, press 'Next'. You need to manually edit /boot/grub2/custom.cfg or use grub-customizer instead.
+Jeśli wybrałeś **GRUB2** jako swój program rozruchowy, nie używaj tego narzędzia aby edytować pozycje w menu bootloadera. Wciśnij **Dalej**. GRUB2 można konfigurować po instalacji, poprzez ręczne modyfikowanie pliku ```
+/boot/grub2/custom.cfg```
+ lub też za pomocą programu **grub-customizer**.
 
 ---
 
 ![](./images/dx2-setupBootloaderAddEntry.png)
 
-Some things that can be done without any risk, are changing the label of an entry and ticking the box to make an entry the default one.
+Opcje które możesz bezpiecznie tutaj zmienić to **Etykieta** oraz zaznaczenie opcji **Domyślne**.
 
-You can add the proper version number of an entry, or rename it completely.
-
-The default entry is the one the systems boots into if you don't make a choice while booting up.
+Domyślna pozycja to taka, która zostanie uruchomiona jeśli nie dokonasz innego wyboru podczas uruchamiania systemu.
 
 ---
 
 ***Ostrzeżenie***
 
-Editing other things can leave you with an unbootable system. Please don't just try something without knowing what you are doing.
+Edytowanie pozostałych pozycji może spowodować, że system nie będzie w stanie się uruchomić. Więc nie próbuj tutaj kombinować, jeśli nie do końca wiesz co robisz.
 
 ---

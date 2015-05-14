@@ -1,6 +1,6 @@
 # DrakX instalator Mageia
 
-Niezależnie czy jesteś początkującym, czy zaawansowanym użytkownikiem GNU-Linuxa, instalator Magei jest zaprojektowany tak, aby uczynić instalację lub aktualizację łatwą i przyjemną.
+Niezależnie czy jesteś początkującym, czy zaawansowanym użytkownikiem GNU/Linux, instalator Magei jest zaprojektowany tak, aby uczynić instalację lub aktualizację łatwą i przyjemną.
 
 Pierwszy ekran instalatora zawiera różne opcje, jednak opcja zaznaczona domyślnie rozpoczyna instalację i zazwyczaj będzie to wszystko czego potrzebujesz.
 

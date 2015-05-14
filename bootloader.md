@@ -25,11 +25,12 @@ Najlepszym rozwiązaniem w takim przypadku będzie użycie bootloadera GRUB2.
 
 ###Użycie istniejącego programu rozruchowego
 
-If you decide to use an existing bootloader then you will need to remember to STOP at the summary page during the installation and click the Bootloader Configure button, which will allow you to change the bootloader install location.
+Jeśli zdecydujesz się na użycie istniejącego programu rozruchowego, musisz pamiętać aby ZATRZYMAĆ SIĘ na etapie instalacji **Różne**, i kliknąć **Konfiguruj** przy pozycji
+**Program rozruchowy**, co pozwoli ci na zmianę parametrów instalacji bootloadera.
 
-Do not select a device e.g."sda", or you will overwrite your existing MBR. You must select the root partition that you chose during the partitioning phase earlier, e.g. sda7.
+Nie wybieraj urządzenia np. **sda**, bo w ten sposób nadpiszesz istniejący program rozruchowy w sektorze MBR. Musisz wybrać partycję główną (root), którą wcześniej utworzyłeś podczas partycjonowania, np. **sda7**.
 
-To be clear, sda is a device, sda7 is a partition on that device.
+Pamiętaj, **sda** oznacza urządzenie (dysk), zaś **sda7** oznacza konkretną partycję znajdującą się na tym urządzeniu (dysku).
 
 ---
 

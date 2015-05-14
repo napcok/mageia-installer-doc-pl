@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Wstęp](README.md)
 * [DrakX instalator Mageia](DrakX.md)
 * [Wybór języka](jezyk.md)
 * [Licencja oraz informacje o wydaniu](licencja.md)
