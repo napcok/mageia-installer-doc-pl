@@ -1,0 +1,12 @@
+{
+    "title": "DrakX instalator Mageia",
+    "language": "pl",
+    "gitbook": "2.x.x",
+    "plugins": [],
+    "links": {
+        "sidebar": {
+            "Mageia.Org.PL": "http://mageia.org.pl"
+        }
+    },
+    "pluginsConfig": {}
+}
