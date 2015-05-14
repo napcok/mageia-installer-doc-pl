@@ -2,35 +2,28 @@
 
 ![](./images/dx2-setupBootloader.png)
 
-If you prefer different bootloader settings to those chosen automatically by the installer, you can change them here.
+Jeśli preferujesz inne ustawienia programu rozruchowego niż te zaproponowane przez instalator, możesz je tutaj ustawić.
 
-You may already have another operating system on your machine, in which case you need to decide whether to add Mageia to your existing bootloader, or allow Mageia to create a new one.
+Jeśli masz już zainstalowany inny system operacyjny na swojej maszynie, możesz chcież zdecydować, czy dodać Mageię do istniejącego już programu rozruchowego, czy pozwolić Magei na utworzenie nowego.
 
----
 
-***Podpowiedź***
+###Użycie bootloadera Magei
 
-The Mageia graphical menus are nice :)
+Domyślnie Mageia tworzy nowy program rozruchowy GRUB (legacy) w sektorze MBR (Master Boot Record) pierwszego dysku twardego. Jeśli masz już zainstalowany inyy system operacyjny, Mageia próbuje go wykryć i dodać do nowego menu startowego.
 
----
-
-###Using a Mageia bootloader
-
-By default, Mageia writes a new GRUB (legacy) bootloader into the MBR (Master Boot Record) of your first hard drive. If you already have other operating systems installed, Mageia attempts to add them to your new Mageia boot menu.
-
-Mageia now also offers GRUB2 as an optional bootloader in addition to GRUB legacy and Lilo.
+Mageia pozwala także na użycie programu rozruchowego GRUB2.
 
 ---
 
 ***Ostrzeżenie***
 
-Linux systems which use the GRUB2 bootloader are not currently supported by GRUB (legacy) and will not be recognised if the default GRUB bootloader is used.
+Systemy Linux, które używają bootloadera GRUB2, nie są obecnie wykrywane przez GRUB (legacy) i nie będą dodane do menu rozruchowego jeśli użyjemy domyślnego bootloadera.
 
-The best solution here is to use the GRUB2 bootloader which is available at the Summary page during installation.
+Najlepszym rozwiązaniem w takim przypadku będzie użycie bootloadera GRUB2.
 
 ---
 
-###Using an existing bootloader
+###Użycie istniejącego programu rozruchowego
 
 If you decide to use an existing bootloader then you will need to remember to STOP at the summary page during the installation and click the Bootloader Configure button, which will allow you to change the bootloader install location.
 
@@ -42,13 +35,13 @@ To be clear, sda is a device, sda7 is a partition on that device.
 
 ***Podpowiedź***
 
-Go to tty2 with Ctrl+Alt+F2 and type df to check where your / (root) partition is. Ctrl+Alt+F7 takes you back to the installer screen.
+Przejdź na terminal znakowy za pomocą **Ctrl+Alt+F2** i wpisz polecenie **df**, aby sprawdzić gdzie znajduję się partycja **/** (root). **Ctrl+Alt+F7** pozwoli ci nna powrót do ekranu instalacyjnego.
 
 ---
 
-The exact procedure for adding your Mageia system to an existing bootloader is beyond the scope of this help, however in most cases it will involve running the relevant bootloader installation program which should detect and add it automatically. See the documentation for the operating system in question.
+Procedura dodawania systemu Mageia do istniejącego programu rozruchowego wykracza poza zakres tej dokumentacji, jednak w większości wypadków sprowadza się ona do odpowiedniego programu instalującego dany bootloader, który powinien wykryć instalację Magei automatycznie. Sprawdź dokumentację używanego przez ciebie innego systemu operacyjnego.
 
 
-###Bootloader advanced option
+###Zaawansowane opcje bootloadera
 
-If you have very limited disk space for the **/** partition that contains **/tmp**, click on Advanced and check the box for Clean **/tmp** at each boot. This helps to maintain some free space.
+Jeśli masz bardz mało miejsca na partycję **/** i zawiera ona  **/tmp**, kliknij **Zaawansowane** i zaznacz opcję **Wyczyść /tmp przy każdym uruchomieniu**. Pozwala to zachować troszkę więcej wolnego miejsca.
