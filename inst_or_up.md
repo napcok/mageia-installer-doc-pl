@@ -3,11 +3,11 @@
 ![](./images/dx2-selectInstallClass.png)
 
 
-* Zainstaluj
+* **Zainstaluj**
 
     Użyj tej opcji dla świeżej instalacji Mageia.
 
-*  Uaktualnienie
+*  **Uaktualnienie**
 
     Jeśli masz jedną lub więcej instalacji Magei w swoim komputerze, instalator pozwala na uaktualnienie jednej z nich do najnowszej wersji.
 

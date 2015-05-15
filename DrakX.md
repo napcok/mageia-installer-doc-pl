@@ -12,7 +12,7 @@ Już na pierwszym ekranie instalatora można ustawić niektóre parametry instal
 
 ![](./images/dx-welcome-lang.png)
 
-Użyj strzałek aby wybrać język i naciśnij ENTER.
+Użyj strzałek aby wybrać język i naciśnij **ENTER**.
 
 Dla przykładu zaprezentowany jest ekran powitalny w języku francuskim, pochądzący z wersji LiveDVD.
 Zauważ, że menu LiveCD/DVD nie zawiera pozycji: **System ratunkowy**, **Test pamięci** oraz **Program do detekcji sprzętu**
@@ -41,12 +41,12 @@ Wciśnięcie **F1** otwiera nowe okno z jeszcze kilkoma opcjami. Wybieramy za po
 
 ![](./images/dx-welcomeHelp1.png)
 
-Szczegółowy widok okna opcji. Wciśnij ESC lub wybierz Powrót do **Opcje uruchamiania**, aby wrócić do listy. Te opcje mogą zostać dodane ręcznie do linii **Opcje uruchamiania**.
+Szczegółowy widok okna opcji. Wciśnij **ESC** lub wybierz Powrót do **Opcje uruchamiania**, aby wrócić do listy. Te opcje mogą zostać dodane ręcznie do linii **Opcje uruchamiania**.
 
 ![](./images/dx-welcomeHelp2.png)
 
 
-Na poniższym obrazku zaprezentowany jest domyślny ekran startowy, gdy używana jest **Sieciowa płyta instalacyjna CD** (obrazy boot.iso lub boot-nonfree.iso). Ta wersja nie pozwala na zmianę języka, dostępne opcje przedstawione są na obrazku. Więcej na temat używania sieciowej płyty instalacyjnej CD CD można dowiedzieć się na [wiki Mageia](https://wiki.mageia.org/en/Boot.iso_install).
+Na poniższym obrazku zaprezentowany jest domyślny ekran startowy, gdy używana jest **Sieciowa płyta instalacyjna CD** (obrazy boot.iso lub boot-nonfree.iso). Ta wersja nie pozwala na zmianę języka, dostępne opcje przedstawione są na obrazku. Więcej na temat używania sieciowej płyty instalacyjnej CD można dowiedzieć się na [wiki Mageia](https://wiki.mageia.org/en/Boot.iso_install).
 
 ![](./images/dx-help.png)
 

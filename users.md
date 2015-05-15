@@ -34,7 +34,9 @@ Tutaj dodajemy użytkownika. Użytkownik ma mniejsze uprawnienia od administrato
 
 Wszyscy użytkownicy, których dodasz podczas instalacji Magei, będą mieli katalogi domowe (dostępne do odczytu dla każdego, ale do zapisu tylko dla danego użytkownika)
 
-Użytkownicy, których dodasz po zainstalowaniu systemu poprzez MCC - System - Zarządzanie użytkownikami będą posiadali katalogi domowe zabezpieczone przed odczytem oraz zapisem przez innych użytkowników.
+Użytkownicy, których dodasz po zainstalowaniu systemu poprzez ```
+Centrum Sterowania Mageia - System - Zarządzanie użytkownikami```
+ będą posiadali katalogi domowe zabezpieczone przed odczytem oraz zapisem przez innych użytkowników.
 
 Jeśli nie chcesz tworzyć użytkowników z katalogami domowymi możliwymi do odczytu przez innych, zaleca się utworzenie tylko tymczasowego użytkownika podczas instalacji i dodanie prawdziwych użytkowników po restarcie systemu.
 

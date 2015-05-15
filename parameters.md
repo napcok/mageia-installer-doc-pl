@@ -94,6 +94,5 @@ Jeśli dodasz kartę sieciową, nie zapomnij ustawić tak zaporę sieciową, aby
 
 Pamiętaj, że udostępnienie wszystkiego (brak firewalla) może być bardzo ryzykowne.
 
-*( Zupełnie się z tym nie zgadzam - tłumacz)*
 
 ---

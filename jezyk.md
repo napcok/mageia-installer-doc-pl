@@ -1,7 +1,7 @@
 # Wybór języka
 Wybierz preferowany język, najpierw rozwijając listę dla swojego kontynentu. Mageia będzie używać wybranego języka zarówno podczas instalacji jak i w zainstalowanym systemie.
 
-Jeśli potrzebujesz mieć kilka języków zainstalowanych w systemie, dla siebie lub innych użytkowników, możesz użyć przycisku Więcej języków aby je teraz dodać.
+Jeśli potrzebujesz mieć kilka języków zainstalowanych w systemie, dla siebie lub innych użytkowników, możesz użyć przycisku **Więcej języków**, aby je teraz dodać.
 
 ![](./images/dx2-selectLanguage.png)
 

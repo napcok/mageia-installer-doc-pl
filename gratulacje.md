@@ -7,7 +7,7 @@ Instalacja i konfiguracja Magei została zakończona, teraz można bezpiecznie u
 
 Po restarcie komputera, pojwi się ekran bootloadera (programu rozruchowego), na którym możesz wybrać jaki system operacyjny chcesz uruchomić (jeśli posiadasz więcej niż jeden).
 
-Jeśli nie zmieniałeś nic w ustawieniach programu rozruchowego, twój nowy system Mageia będzie wybrany automatycznie oraz zostanie uruchomiony.ected and started.
+Jeśli nie zmieniałeś nic w ustawieniach programu rozruchowego, twój nowy system Mageia będzie wybrany automatycznie oraz zostanie uruchomiony.
 
 Dobrej zabawy!
 
